@@ -2,6 +2,7 @@
 <!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
   <div>
     <a href="https://app.daily.dev/akram"><img src="https://api.daily.dev/devcards/53c0773c8f4e45ffa39eb60d88bf0849.png?r=yj4" width="200" alt="Akram Mahmoud's Dev Card"/></a>
+    <br />
   </div>
   <div id="badges">
     <a href="https://www.linkedin.com/in/akram-mahmoud-96238599/">
